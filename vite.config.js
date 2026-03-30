@@ -4,5 +4,5 @@ import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base:"/Sleep-Debt-Clock-final
+  base:"/Sleep-Debt-Clock-final",
 })
